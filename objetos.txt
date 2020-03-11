@@ -3,3 +3,5 @@ Cadeira
 Lapís
 Mesa 
 Lousa
+Geladeira
+Copo
