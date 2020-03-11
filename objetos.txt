@@ -1,0 +1,5 @@
+Cama
+Cadeira
+Lapís
+Mesa 
+Lousa
