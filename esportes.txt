@@ -2,5 +2,9 @@ Futebol
 Volei
 Basquete
 Nataçao
-
 Teste
+Tenis
+Atletismo
+Handbal
+
+
