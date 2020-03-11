@@ -2,3 +2,8 @@ Futebol
 Volei
 Basquete
 Nataçao
+
+Tenis
+Atletismo
+Handbal
+
